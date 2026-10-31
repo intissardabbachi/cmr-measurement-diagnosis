@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+nibabel
+torch
+# CineMA comparator only (step_cinema.py, step5 features):
+omegaconf
+hydra-core
+monai
+timm

@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Code for: Why does a cardiac MRI diagnosis model fail at a new hospital? Measurement-level uncertainty and failure attribution under multi-vendor shift"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-01"
+authors:
+  - family-names: Dabbachi
+    given-names: Intissar
+    affiliation: "Control and Energy Management Laboratory, National Engineering School of Sfax (ENIS), University of Sfax, Tunisia"
+  - family-names: Masmoudi
+    given-names: Sabeur
+    affiliation: "Laboratory of Advanced Technologies for Medicine and Signals (ATMS), National Engineering School of Sfax, University of Sfax, Tunisia"
+  - family-names: Naifar
+    given-names: Omar
+    affiliation: "Higher Institute of Applied Sciences and Technology of Kairouan, University of Kairouan, Tunisia"
+    orcid: "https://orcid.org/0000-0001-7115-9967"
+  - family-names: Feki
+    given-names: Wiem
+    affiliation: "Radiology Department, Hedi Chaker University Hospital, Sfax, Tunisia"
+keywords:
+  - cardiac magnetic resonance
+  - domain shift
+  - external validation
+  - uncertainty quantification
+  - interpretability
+preferred-citation:
+  type: article
+  title: "Why does a cardiac MRI diagnosis model fail at a new hospital? Measurement-level uncertainty and failure attribution under multi-vendor shift"
+  authors:
+    - family-names: Dabbachi
+      given-names: Intissar
+    - family-names: Masmoudi
+      given-names: Sabeur
+    - family-names: Naifar
+      given-names: Omar
+    - family-names: Feki
+      given-names: Wiem
+  journal: "Computerized Medical Imaging and Graphics"
+  year: 2026
+  notes: "Submitted manuscript; update journal, year, volume and DOI on publication."
